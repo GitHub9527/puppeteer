@@ -28,6 +28,7 @@
 export * from './common/Accessibility.js';
 export * from './common/Browser.js';
 export * from './node/BrowserFetcher.js';
+export * from './node/Puppeteer.js';
 export * from './common/Connection.js';
 export * from './common/ConsoleMessage.js';
 export * from './common/Coverage.js';
